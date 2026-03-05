@@ -13,9 +13,11 @@
 ---
 
 # 🧑‍💻 About Me
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=700&lines=%7B;name%3A+Bao+Nguyen;role%3A+Full+Stack+Developer;languages%3A+Java+Python+C%23+JavaScript+PHP;database%3A+SQL+Server;interest%3A+ERP+Systems;coding...;%7D">
 </p>
+
 ```json
 {
   "name": "Bao Nguyen",
@@ -27,9 +29,7 @@
   "data_format": ["JSON"],
   "interest": ["ERP Systems", "Web Applications", "Enterprise Software"]
 }
-```
 🚀 Tech Stack
-
 🌐 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,sass"/> </p>
 ⚙️ Backend
@@ -40,16 +40,7 @@
 <p> <img src="https://skillicons.dev/icons?i=json"/> </p>
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=BaoNe2204&show_icons=true&theme=tokyonight"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoNe2204&layout=compact&theme=tokyonight"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=BaoNe2204&theme=tokyonight"/> </p>
-📈 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaoNe2204&theme=tokyo-night"/> </p>
 📫 Connect With Me
 <p> <a href="https://github.com/BaoNe2204"> <img src="https://skillicons.dev/icons?i=github"/> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p>
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> </p>
