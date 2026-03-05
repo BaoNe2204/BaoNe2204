@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Web & System Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Java%20Developer;Python%20Developer;C%23%20Developer;Web%20Application%20Builder&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Developer;Python+Developer;C%23+Developer;Web+Application+Builder" />
 </p>
 
 <p align="center">
@@ -11,16 +11,38 @@
 </p>
 
 ---
-🚀 Tech Stack
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,sass"/> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=java,nodejs,php,python,cs"/> </p>
-🗄️ Database
-<p> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://skillicons.dev/icons?i=mysql"/> </p>
-📦 Data Format
-<p> <img src="https://skillicons.dev/icons?i=json"/> </p>
-📫 Connect With Me
-<p> <a href="https://github.com/BaoNe2204"> <img src="https://skillicons.dev/icons?i=github"/> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> </p>
+
+# 🚀 Tech Stack
+
+### 🌐 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,sass" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,nodejs,php,python,cs" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaoNe2204&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoNe2204&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
