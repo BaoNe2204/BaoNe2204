@@ -29,6 +29,7 @@
   "data_format": ["JSON"],
   "interest": ["ERP Systems", "Web Applications", "Enterprise Software"]
 }
+```
 🚀 Tech Stack
 🌐 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,sass"/> </p>
